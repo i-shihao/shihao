@@ -149,3 +149,6 @@ submitting patches during this program I think I will go on submitting patches i
 the future as well because it is such and amazing ecosystem to work with . I am
 grateful for this mentorship that such good mentors have taught us and guided us
 on the way towards open source . Thanks to Shuah khan and David hunter .
+
+This file is hosted on Github pages and can be visited using this link
+            https://i-shihao.github.io/shihao/
